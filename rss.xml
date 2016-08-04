@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kimmyszeto]]></title>
         <description><![CDATA[kimmyszeto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kimmyszeto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 21:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 21:40:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kimmyszeto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kimmy Szeto is an accomplished performer, orchestrator and director of musical theater. He has also studied carillon, double bass, percussion and recorder. He performs extensively as a piano accompanist and a chamber musician, and his orchestrations and transcriptions have been performed throughout the country. Kimmy holds performance diplomas in piano and violin and a masters degree in musicology.</p>]]></description>
+            <link>https://thegrid.ai/kimmyszeto/kimmy-szeto-is-an-accomplished-performer-orchestrator-and-d/index.html</link>
+            <guid isPermaLink="false">73b02342-f20e-41b5-a3aa-01158f491b47</guid>
+            <pubDate>Thu, 04 Aug 2016 21:40:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Information Professional]]></title>
             <description><![CDATA[<article><h1>Information Professional</h1><p>I am currently assistant professor of the library at Baruch College, City University of New York. I manage the Digital Media Library, create metadata for e-books and online audiovisual materials, and guide the development of metadata standards for the system used to manage the digital photograph collections in campus offices such as marketing, communications, alumni relations, and athletics.</p></article>]]></description>
-            <link>undefinedinformation-professional/index.html</link>
+            <link>https://thegrid.ai/kimmyszeto/information-professional/index.html</link>
             <guid isPermaLink="false">09af50c4-5c3f-46a4-84d1-9a65c6eb805d</guid>
             <pubDate>Thu, 04 Aug 2016 21:30:02 GMT</pubDate>
         </item>
