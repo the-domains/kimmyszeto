@@ -1,7 +1,7 @@
 name: kimmyszeto
 favicon: null
 layout_spectrum: 0.06110282591544092
-typography_spectrum: 0.8106590264942497
+typography_spectrum: 0.4889
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.25
-  lightness: 0.12907048547640443
-  saturation: 0.95912626828067
-  rhythmicContrast: 0.75
+    - '#175399'
+    - '#78a489'
+    - '#047b4d'
+    - '#588426'
+    - '#245d2d'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
