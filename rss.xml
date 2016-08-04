@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kimmyszeto]]></title>
+        <description><![CDATA[kimmyszeto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 21:30:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Information Professional]]></title>
+            <description><![CDATA[<article><h1>Information Professional</h1><p>I am currently assistant professor of the library at Baruch College, City University of New York. I manage the Digital Media Library, create metadata for e-books and online audiovisual materials, and guide the development of metadata standards for the system used to manage the digital photograph collections in campus offices such as marketing, communications, alumni relations, and athletics.</p></article>]]></description>
+            <link>undefinedinformation-professional/index.html</link>
+            <guid isPermaLink="false">09af50c4-5c3f-46a4-84d1-9a65c6eb805d</guid>
+            <pubDate>Thu, 04 Aug 2016 21:30:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
